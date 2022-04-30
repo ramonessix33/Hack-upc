@@ -1,0 +1,2 @@
+define(["require","exports","typescript/libraries/file-viewer/src/preview_archive/preview_archive"],(function(e,r,i){"use strict";Object.defineProperty(r,"__esModule",{value:!0}),r.PreviewArchive=void 0,Object.defineProperty(r,"PreviewArchive",{enumerable:!0,get:function(){return i.PreviewArchive}})}));
+//# sourceMappingURL=index.amd.min.js-vfln1O-wD.map
